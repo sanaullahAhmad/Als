@@ -1,0 +1,15 @@
+.jquery_val_error{
+	display:none;	
+}
+
+.error_individual{
+	color: red;
+}
+
+.button-right{
+	float: right;
+}
+
+.form-hide{
+display:none;	
+}

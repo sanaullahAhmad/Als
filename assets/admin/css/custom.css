@@ -1,0 +1,68 @@
+#add_outlet { 
+    background-color:#fff;
+    border-radius:15px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:500px;
+    min-height: 180px;
+}
+
+
+.closestyle.b-close, .closestyle.bClose {
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: none;
+    font: bold 131% sans-serif;
+    padding: 0 6px 2px;
+    position: absolute;
+    right: -7px;
+    top: -7px;
+}
+
+.closestyle {
+    background-color: #f67f21;
+    border-radius: 10px;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.form-box input{
+	color: #f67f21;
+}
+
+
+#edit_outlet{
+	 background-color:#fff;
+    border-radius:15px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:500px;
+    min-height: 180px;
+}
+
+.delete_entry{
+	background-color:#fff;
+    border-radius:15px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:500px;
+
+}
+
+
+
+#activity .slider .ui-slider-tip {
+    visibility: visible;
+    opacity: 1;
+    top: -30px;
+	
+	padding: 0 5px 0 5px;
+}
+
